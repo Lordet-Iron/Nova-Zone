@@ -1,0 +1,34 @@
+{
+    "name": "Player Controls",
+    "maps": [
+        {
+            "name": "Main",
+            "id": "e396913f-2c84-4784-8199-dd9c01778e46",
+            "actions": [
+                {
+                    "name": "Forward",
+                    "type": "Button",
+                    "id": "ca2c37aa-212c-43d1-bde5-ef1c0d5c96e7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7e33cad6-3fd6-42e1-9dff-19addb61d446",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
